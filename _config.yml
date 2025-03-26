@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 site_theme               : "default"
 title                    : "Shuting Chen / PhD Student"
 title_separator          : "-"
@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Shuting Chen"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Edinburgh"
   employer         : "University of Edinburgh"
-  uri              : # URL
+  uri              :  https://edwebprofiles.ed.ac.uk/profile/shuting-chen
   email            : "s2071975@ed.ac.uk" 
 
   # Academic websites
