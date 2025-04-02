@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default"
-title                    : "Shuting Chen / PhD Student"
+title                    : "PhD Student"
 title_separator          : "-"
 name                     : &name "Shuting Chen"
 description              : &description "personal description"
